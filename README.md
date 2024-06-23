@@ -1,2 +1,2 @@
-# banila-js-make-chrome-app
-Banila js 2024 Update.
+# vanila-js-make-chrome-app
+Vanila js 2024 Update.
