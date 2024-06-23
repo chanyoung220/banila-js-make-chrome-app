@@ -1,0 +1,47 @@
+body {
+  background-color: bisque;
+}
+
+#login-form {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-top: 50px;
+}
+
+#login-form input:first-child {
+  opacity: 0.6;
+  border-radius: 15px;
+}
+
+#login-form input:last-child {
+  background-color: wheat;
+  border-radius: 15px;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+#greeting {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+#clock {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  color: green;
+  margin-bottom: -50px;
+}
+
+.img {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
